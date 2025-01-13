@@ -82,13 +82,3 @@ Version history browser which opens on clicking the history button on the bottom
 ![Vertical History UI](./public/UIscreens/Vertical%20Version%20history%20open.jpg)
 
 Alternative UI with a vertical history browser optimized for conserving vertical screen space
-
----
-
-## Tasks progress
-
-Task-1: Implemented the rich text editor using TipTap and added a word counter in the nav bar
-
-Task-2: Implemented the version history feature using "Steps" from TipTap based on "onTransaction" extention
-
-Task-3: Implemented a git like branch management system, you can create and switch branches at any point of the history timeline
