@@ -1,6 +1,6 @@
 # GitPad
 
-GitPad is a modern web application built with React, TypeScript, and Tailwind CSS. It provides a rich text editing experience using TipTap.
+GitPad is a web app built with React, TypeScript, and Tailwind CSS. It provides a rich text editing experience with git like branching using TipTap.
 
 <h2 align="left">
 <a href="https://gitpad.surajthotakura.com/" target="_blank" rel="noreferrer noopener">View Demo</a>
@@ -9,9 +9,9 @@ GitPad is a modern web application built with React, TypeScript, and Tailwind CS
 ## Features
 
 - Rich text editing with TipTap
-- Modern UI components with Radix UI
+- Git like versioning and branching
 - Responsive design with Tailwind CSS
-- TypeScript support for enhanced development experience
+- TypeScript support
 
 ## Prerequisites
 
